@@ -24,7 +24,7 @@ Not Working:
 Nothing that I am aware of! (other than nvidia)
 
 Note: Try to understand the EFI File, even though we might have shared the same hardware, you might not get everything working.   
-      When you are using iGPU to accelerate, connect your display to mother board port, as your gpu will be disabled.
+      When you are using iGPU to accelerate, connect your display to motherboard port, as your gpu will be disabled.
 
 
 I thank https://dortania.github.io/OpenCore-Install-Guide/ for the guide
