@@ -1,7 +1,11 @@
 # Hackintosh-bigsur
-This is about the EFI Configuration file for Big Sur - 11.5.
+This is about the EFI Configuration file for Big Sur (Tested on- 11.4, 11.5, 11.5.1)
 
-
+Note: Version 1 is made using Prebuilt SSDT, making it support z490 mobo with comet lake processors.</br>
+      Version 2 is made using manual SSDT, making it specific to Maximus XII Hero with i7-10700K processor.</br>
+      
+      Donot use the SSDT if you are unsure.</br>
+      
 Hardwares:
 Asus Maximus XII Hero (z490)</br>
 Processor i7-10700K</br>
@@ -21,7 +25,7 @@ USB 3.1</br>
 Technically everything...</br>
 
 Not Working:</br>
-Nothing that I am aware of! (other than nvidia)</br>
+Airdrop: Due to apple not supporting much intel wifi modules.
 
 Note: Try to understand the EFI File, even though we might have shared the same hardware, you might not get everything working.   </br>
       When you are using iGPU to accelerate, connect your display to motherboard port, as your gpu will be disabled.</br>
