@@ -4,7 +4,7 @@ This is about the EFI Configuration file for Big Sur (Tested on- 11.4, 11.5, 11.
 Note: Version 1 is made using Prebuilt SSDT, making it support z490 mobo with comet lake processors.</br>
       Version 2 is made using manual SSDT, making it specific to Maximus XII Hero with i7-10700K processor.</br>
       
-      Donot use the SSDT if you are unsure.</br>
+      Donot use the SSDT if you are unsure.
       
 Hardwares:
 Asus Maximus XII Hero (z490)</br>
