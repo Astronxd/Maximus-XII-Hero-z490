@@ -21,7 +21,7 @@ Working:</br>
 Everything except
 
 Not Working:</br>
-Bluetooth: Need rework...
+Bluetooth: Kext needs rework... </br>
 Airdrop: Due to apple not supporting much intel wifi modules.
 
 Note: Try to understand the EFI File, even though we might have shared the same hardware, you might not get everything working.   </br>
