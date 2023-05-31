@@ -1,4 +1,4 @@
-# Hackintosh-bigsur
+# Hackintosh-BigSur-Monterey-Ventura
 This is about the EFI Configuration file for Big Sur, Monterey and Ventura. (All Tested)
 
 Note: Version 1 is made using Prebuilt SSDT, making it support z490 mobo with comet lake processors.</br>
