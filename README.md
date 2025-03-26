@@ -1,4 +1,4 @@
-# Hackintosh-BigSur-Monterey-Ventura-Sonoma
+# Hackintosh-BigSur-Monterey-Ventura-Sonoma-Sequoia
 This is about OpenCore EFI Configuration for Big Sur, Monterey, Ventura, Sonoma and Sequoia . (All Tested)
 
 Note: Version 1 is made using Prebuilt SSDT, making it support z490 mobo with comet lake processors.</br>
