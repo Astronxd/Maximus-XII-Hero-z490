@@ -1,18 +1,24 @@
 # Hackintosh-BigSur-Monterey-Ventura-Sonoma
-This is about OpenCore EFI Configuration for Big Sur, Monterey, Ventura and Sonoma . (All Tested)
+This is about OpenCore EFI Configuration for Big Sur, Monterey, Ventura, Sonoma and Sequoia . (All Tested)
 
 Note: Version 1 is made using Prebuilt SSDT, making it support z490 mobo with comet lake processors.</br>
       Version 2 is made using manual SSDT, making it specific to Maximus XII Hero with comet lake (i7-10700K) processor.</br>
       Version 10 uses SSDT to disable to PCIe Port labelled in the diagram below.
       Donot use the SSDT if you are unsure.
-      Remove the SSDT-GPU-DISABLE.aml and you can start working on your build with other GPU.
-      
-Hardwares:
+<h1> Update from OpenCore 1.0.4 </h1>
+<h2>Hardware Updated: </h2>
+Asus Maximus XII Hero (z490)</br>
+Processor i9-11900K</br>
+Corsair Vengeance RGB PRO 32 GB 3200 MHz</br>
+Sapphire 6900XT Nitro+ Special Edition</br></br> 
+ 
+     
+<h2>Old Hardware: (OpenCore 1.0.1)</h2>
 Asus Maximus XII Hero (z490)</br>
 Processor i7-10700K</br>
 Corsair Vengeance RGB PRO 32 GB 3200 MHz</br>
-Nvidia RTX 3080 - Disabled (unsupported), iGPU- Intel UHD 630</br>
-
+Nvidia RTX 3080 - Disabled using SSDT-GPU-DISABLE.aml (unsupported), iGPU- Intel UHD 630</br>
+<h2></h2>
 BIOS Settings to Change:</br>
 Secure boot: Other OS</br>
 That's all...
